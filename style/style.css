@@ -179,7 +179,7 @@ h3 {
 
 }
 
-.about__author {
+about__author {
 	background: url(../img/images.jpg) no-repeat left center;
 	background-position: center;
  	background-repeat: no-repeat;
@@ -198,11 +198,10 @@ h3 {
 
 .about__name{
 	font-size: 20px;
-	margin-left: 10px;
+
 }
 
 .about_dop {
-	margin-left: 10px;
 	margin-bottom: 0;
 }
 
