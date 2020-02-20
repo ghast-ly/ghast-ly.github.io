@@ -2,9 +2,9 @@ $ (function() {
 		$('.works-carousel').owlCarousel({
 	    loop:true,
 	    margin:30,
-	    nav:true,
+	    nav:false,
 	    dots:false,
-	    navText: ['<img src="img/left.svg" alt="" />', '<img src="img/right.svg" alt="" />'],
+	    center:true,
 	    startPosition: 0,
 	    responsive:{
 	        0:{
@@ -26,7 +26,7 @@ $ (function() {
 	    margin:0,
 	    nav:true,
 	    dots:false,
-	    navText: ['<img src="img/left.svg" alt="" />', '<img src="img/right.svg" alt="" />'],
+	    nav:true,
 	    //startPosition: 0,
 	    responsive:{
 	        0:{
